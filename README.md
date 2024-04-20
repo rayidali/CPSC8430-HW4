@@ -12,11 +12,11 @@ Generative Adversarial Networks (GANs) are a powerful class of deep learning mod
 
 ## Installation
 To run the code in this repository, you need to have the following dependencies installed:
-- Python (version X.X.X)
-- PyTorch (version X.X.X)
-- torchvision (version X.X.X)
-- NumPy (version X.X.X)
-- Matplotlib (version X.X.X)
+- Python 
+- PyTorch 
+- torchvision 
+- NumPy 
+- Matplotlib 
 
 ## Usage
 To train and evaluate the GAN models, follow these steps:
